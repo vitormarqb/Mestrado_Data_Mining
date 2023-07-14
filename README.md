@@ -1,3 +1,2 @@
-# Mineração de Dados - Mestrado UFU
-Repositório destinado para códigos do mestrado.
-Por enquanto temos dois códigos que é referente ao primeiro trabalho da disciplina Mineração de Dados, onde apresento duas utilizações do algoritmo de classificação.
+# Disciplina Mineração de Dados - Mestrado UFU (2022/2)
+Atividades desenvolvidas na disciplina de mineração de dados no segundo semestre de 2022.
